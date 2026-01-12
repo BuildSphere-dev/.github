@@ -1,220 +1,174 @@
 <!-- ========================= -->
-<!-- BuildSphere Organization -->
+<!-- BUILDSPHERE —  README -->
 <!-- ========================= -->
 
 <div align="center">
 
-<img src="https://github.com/BuildSphere-dev/.github/blob/main/world%20tech%20logo%20template.%20Modern%20icon%20globe%2C%20sphere%2C%20technology%20logo%20design%20template.png"
-     alt="BuildSphere Logo"
-     width="180"/>
+<img src="https://raw.githubusercontent.com/BuildSphere-dev/.github/main/world%20tech%20logo%20template.%20Modern%20icon%20globe%2C%20sphere%2C%20technology%20logo%20design%20template.png"
+     width="160" />
 
 <h1>BuildSphere Technology</h1>
 
-<p><strong>Engineering ideas into intelligent systems</strong></p>
+<!-- Animated Typing Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=FF7A18&center=true&vCenter=true&width=650&lines=Engineering+Ideas+Into+Intelligent+Systems;AI+Driven+Platforms+%7C+Full+Stack+Systems;Hackathons+to+Production+Grade+Solutions" />
 
-<p>
-  <img src="https://img.shields.io/badge/Team-4%20Developers-blue" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20Systems-green" />
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Team-4%20Engineers-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Systems-16a34a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Building-f97316?style=for-the-badge"/>
 
 </div>
 
-<hr/>
+---
 
-<!-- ========================= -->
-<!-- About -->
-<!-- ========================= -->
+## ⚡ Who We Are (In One Breath)
 
-<h2>🚀 About BuildSphere</h2>
+> **BuildSphere** is a hackathon-born engineering collective building  
+> **AI-powered, system-first, production-ready platforms** — fast.
 
-<p>
-BuildSphere Technology is a collaborative software engineering organization formed during hackathons.
-We focus on building <strong>AI-driven, scalable, and enterprise-grade systems</strong> that solve real-world business and operational challenges.
-</p>
-
-<p>
-Our work emphasizes clean architecture, automation, and intelligent workflows across full-stack systems.
-</p>
+We don’t just prototype.  
+We design systems that *survive real-world usage*.
 
 ---
 
-<!-- ========================= -->
-<!-- Core Focus -->
-<!-- ========================= -->
-
-<h2>🧠 Core Focus Areas</h2>
-
-<ul>
-  <li>🤖 AI-powered enterprise platforms</li>
-  <li>⚡ Rapid hackathon prototyping → production-ready systems</li>
-  <li>🧩 Full-stack & backend architecture</li>
-  <li>📊 Data-driven decision automation</li>
-  <li>🌍 Open-source & collaborative development</li>
-</ul>
-
----
-
-<!-- ========================= -->
-<!-- Projects -->
-<!-- ========================= -->
-
-<h2>📁 Our Projects</h2>
+## 🧠 What We Actually Build
 
 <table>
 <tr>
-<th align="left">Project</th>
-<th align="left">Description</th>
-<th align="center">Domain</th>
-</tr>
+<td width="50%">
 
-<tr>
-<td><strong>OPTIBIDS</strong></td>
-<td>
-A B2B AI-driven <strong>RFP & Tender Management Platform</strong> that automates:
-<ul>
-<li>Tender publishing</li>
-<li>Vendor application submissions</li>
-<li>AI-based proposal analysis</li>
-<li>SKU-based pricing estimation</li>
-<li>Offer negotiation & acceptance tracking</li>
-</ul>
+### 🤖 Intelligent Platforms  
+AI-driven automation for decision-heavy workflows
+
+### 🧩 System-Centric Engineering  
+Backend-first, scalable architectures
+
+### ⚡ Hackathon Velocity  
+Idea → MVP → Demo → Production path
+
 </td>
-<td align="center">AI · B2B · Procurement</td>
-</tr>
 
-<tr>
-<td><strong>FixTrack</strong></td>
-<td>
-An intelligent <strong>Maintenance Management System</strong> designed to efficiently manage:
-<ul>
-<li>Equipment lifecycle tracking</li>
-<li>Maintenance teams & assignments</li>
-<li>Repair requests & workflows</li>
-<li>Transparent, ERP-style operations</li>
-</ul>
-Inspired by enterprise platforms like <em>Odoo</em>.
+<td width="50%">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,docker,postgres,linux,git" />
+
 </td>
-<td align="center">ERP · Operations · Full-Stack</td>
 </tr>
-
 </table>
 
 ---
 
-<!-- ========================= -->
-<!-- Tech Stack -->
-<!-- ========================= -->
+## 🚀 Project Spotlights (This Is the Core)
 
-<h2>🛠️ Technology Stack</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,flask,fastapi,nodejs,mysql,postgres,docker,linux,git" />
-</p>
+### 🔷 OPTIBIDS  
+**AI-Powered RFP & Tender Intelligence Platform**
+
+**Why it exists:**  
+Manual tender evaluation is slow, biased, and inefficient.
+
+**What OPTIBIDS automates:**
+- 📄 Tender publishing
+- 🧾 Vendor submissions
+- 🤖 AI-based proposal analysis
+- 📦 SKU-level price estimation
+- 🤝 Negotiation & acceptance tracking
+
+**Domain:** B2B · Procurement · AI  
+**Mindset:** Reduce weeks → minutes
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔶 FixTrack  
+**Intelligent Maintenance Management System**
+
+Inspired by ERP systems like **Odoo**, FixTrack connects:
+- 🏭 Equipment lifecycle
+- 👷 Maintenance teams
+- 🛠 Repair workflows
+- 📊 Transparent operational tracking
+
+**Why it matters:**  
+Maintenance chaos kills productivity.
+
+**Domain:** ERP · Operations · Full-Stack  
+**Mindset:** Structure, visibility, accountability
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ========================= -->
-<!-- Focus Chart -->
-<!-- ========================= -->
+## 📊 Engineering DNA (Not Just Percentages)
 
-<h2>📈 Engineering Focus Distribution</h2>
-
-<table width="100%">
+<table>
 <tr>
-<td width="25%"><strong>AI & Automation</strong></td>
-<td width="75%">
+<td width="30%"><strong>🤖 AI & Automation</strong></td>
+<td>
 <progress value="35" max="100"></progress> 35%
 </td>
 </tr>
 
 <tr>
-<td><strong>Full-Stack Systems</strong></td>
+<td><strong>🧩 Full-Stack Systems</strong></td>
 <td>
 <progress value="30" max="100"></progress> 30%
 </td>
 </tr>
 
 <tr>
-<td><strong>System Architecture</strong></td>
+<td><strong>🏗 System Architecture</strong></td>
 <td>
 <progress value="20" max="100"></progress> 20%
 </td>
 </tr>
 
 <tr>
-<td><strong>Hackathons & Rapid Prototyping</strong></td>
+<td><strong>⚡ Hackathons</strong></td>
 <td>
 <progress value="15" max="100"></progress> 15%
 </td>
 </tr>
 </table>
 
-<p><em>Distribution reflects current project priorities and evolves over time.</em></p>
-
-<p align="center">
-<img src="https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{
-    labels:['AI & Automation','Full-Stack Systems','Architecture','Hackathons'],
-    datasets:[{
-      data:[35,30,20,15],
-      backgroundColor:['#ff7a18','#2563eb','#16a34a','#9333ea']
-    }]
-  },
-  options:{
-    plugins:{legend:{position:'bottom'}}
-  }
-}" width="420"/>
-</p>
+<p><em>Focus adapts as projects mature from hackathon to production.</em></p>
 
 ---
 
-<!-- ========================= -->
-<!-- Team -->
-<!-- ========================= -->
+## 👥 How We Work
 
-<h2>👥 Team</h2>
-
-<p>
-BuildSphere is a <strong>4-member engineering team</strong> with expertise across backend systems,
-frontend development, AI workflows, and system architecture.
-</p>
+- Small, ownership-driven team (4 engineers)
+- Roles rotate based on system needs
+- Architecture decisions > tool hype
+- Clean commits, clear documentation
 
 ---
 
-<!-- ========================= -->
-<!-- Contributing -->
-<!-- ========================= -->
+## 🤝 Want to Collaborate?
 
-<h2>🤝 Contributing</h2>
+We welcome:
+- Open-source contributors
+- Hackathon collaborators
+- Reviewers & system thinkers
 
-<p>
-We welcome collaborators, contributors, and reviewers.
-</p>
-
-<ol>
-<li>Fork the repository</li>
-<li>Create a feature branch</li>
-<li>Commit clean, well-documented code</li>
-<li>Open a pull request</li>
-</ol>
+**Process:**
+1. Fork  
+2. Build something meaningful  
+3. Open a PR  
+4. Discuss like engineers
 
 ---
-
-<!-- ========================= -->
-<!-- License -->
-<!-- ========================= -->
-
-<h2>📜 License</h2>
-
-<p>
-Unless otherwise specified, projects are released under the <strong>MIT License</strong>.
-</p>
-
-<hr/>
 
 <div align="center">
-<p><strong>BuildSphere Technology</strong><br/>
-Where ideas evolve into intelligent systems.</p>
+
+### 🌍 BuildSphere Technology  
+**Systems over demos. Engineering over hype.**
+
 </div>
